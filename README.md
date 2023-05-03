@@ -1,6 +1,6 @@
 # Final Project: Urban Data Science 
  Spring 2023 project for Urban Data Science
- ##### Team :  Maya Deshpande, Chaithra Navada
+ ##### Maya Deshpande, Chaithra Navada
 
  
  ## Research Question
@@ -16,8 +16,13 @@
 ### Equity Data:
 5. Equity Strategy Neighborhoods: SFMTA-designated equity strategy neighborhoods.
 6. SF Census Tract-Level Social Vulnerability: Social Vulnerability Index (SVI) scores at the census tract-level in SF.
- 
 
  
  ## Method
+ 
+ 
+ ## Links
+ [Proposal](https://docs.google.com/document/d/1ZZ_YyN8SOPXLoJtSHEAWqnRYS5ikKO_kZRPhvpu6JSQ/edit#heading=h.bl5su5ntdmg9) 
+ 
+[Proposal Feedback](https://docs.google.com/document/d/1mxfoKShXbY5-FMnL5CRh5xEZgvYAAkdOayPjZA0Dfoc/edit)
  
