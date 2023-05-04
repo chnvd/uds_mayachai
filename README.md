@@ -2,7 +2,6 @@
  Spring 2023 project for Urban Data Science
  ##### Maya Deshpande, Chaithra Navada
 
- 
  ## Research Question
  1. Is the current spatial structure of San Francisco MUNI’s Bus Rapid Transit (BRT) system equitable across city residents and neighborhoods?
 2. How does BRT meet the needs of the residents in terms of job and destination access?
@@ -26,3 +25,7 @@
  
 [Proposal Feedback](https://docs.google.com/document/d/1mxfoKShXbY5-FMnL5CRh5xEZgvYAAkdOayPjZA0Dfoc/edit)
  
+ ## to-dos
+ 
+update data sources, and methord after finalizing sources
+redefine the research question
