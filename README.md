@@ -75,4 +75,5 @@ Neither of the models predict new neighbourhoods to be a `ESN`. We can take this
  ## Work division
 
 `Maya Deshpande` : Data collection, Cleaning and Joins (Section 1.4)
+
 `Chaithra Navada`: Random Forest Model (1.5) 
