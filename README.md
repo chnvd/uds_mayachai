@@ -62,7 +62,7 @@ Model 2 attemts to retain only census dataset variables that are likely to chang
 ##### Model 2 Results
 We find that this model has high accuracy, but it is less than perfect. It correctly identified identifies 2723 observations as negative, and 462 as positive, but classifies 88 as non-ENS despite them being `ESN`. 
 
-### Conclusion
+## Conclusion
 We can take result from `Model 2`  to be an indication of success of the MUNI `ESN` program. The 88 neighbourhoods that were first classified in 2015-16 as having high needs have improved in the intervening years, and now come above the `ESN` theshold. Model predicts these to be `non-ESN`, despite them being classifed as `ESN` in the dataset. The city can consider graduating these neighborhoods from their “equity strategy” titles. 
 
 Neither of the models predict new neighbourhoods to be a `ESN`. We can take this as showing with stronger confidence that the exisiting strategy need is successful in serving `ESN` neighbourhoods that have a need, while not implemeting `ESN` did not have an impact in already well-off neighbourhoods.  
